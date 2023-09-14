@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🌍",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🌍",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Prague",
+      "country": "Czechia",
+      "emoji": "🌍",
+      "date": "2023-09-07T17:55:56.097Z",
+      "notes": "Cool City",
+      "position": {
+        "lat": "50.02185841773447",
+        "lng": "14.414062500000002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Olbia",
+      "country": "Italy",
+      "emoji": "🌍",
+      "date": "2023-09-07T18:01:37.940Z",
+      "notes": "Cool airport",
+      "position": {
+        "lat": "40.92388970852945",
+        "lng": "9.542999267578125"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Chicago",
+      "country": "United States of America (the)",
+      "emoji": "🌍",
+      "date": "2023-09-07T18:03:37.500Z",
+      "notes": "NICE!",
+      "position": {
+        "lat": "41.870583462266836",
+        "lng": "-87.62420654296875"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Budapest",
+      "country": "Hungary",
+      "emoji": "🌍",
+      "date": "2023-09-07T19:02:57.999Z",
+      "notes": "TEST",
+      "position": {
+        "lat": "47.45780853075031",
+        "lng": "19.050292968750004"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Birkirkara",
+      "country": "Malta",
+      "emoji": "🌍",
+      "date": "2023-09-07T23:04:30.974Z",
+      "notes": "",
+      "position": {
+        "lat": "35.90355973481928",
+        "lng": "14.453887939453127"
+      },
+      "id": 98443204
+    }
+  ]
+}
